@@ -9,8 +9,8 @@
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bothell , WA.
 - :telescope: Intellectually curious Full Stack Web Developer with a Strong medical background in Physical Therapy. Enthusiastic about building a connective, impactful experience through creatively engaging user interfaces and meaningful online interactions on the web. Ability to lead and collaborate with others to achieve common goals on time. Known for finding solutions to programming challenges through complex problem-solving.
 
-- :seedling: Gaming is becoming my new passion and building new apps and understanding the logic behind the games making my mind more curious to understand this new world.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Gaming is becoming my new passion and building new apps and understanding the logic behind the games making my mind more curious to understand my new world.
+- :zap: In my free time, I love dancing, playing Speedminton with my hubby and kids, Playing Gears of War, solving problems on GeeksforGeeks and reading tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-surbhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-arora-26927210/)
 - <div>
@@ -34,8 +34,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surbhiarora3&theme=radical)](https://git.io/streak-stats)
-
+![Surbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surbhiarora3&show_icons=true&theme=radical)
 
 <!--
 **Surbhiarora3/Surbhiarora3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
