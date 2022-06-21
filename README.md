@@ -12,9 +12,11 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :seedling: Gaming is becoming my new passion and building new apps and understanding the logic behind the games making my mind more curious to understand my new world.
 - :zap: In my free time, I love dancing, playing Speedminton with my hubby and kids, Playing Gears of War, solving problems on GeeksforGeeks and reading tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-surbhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-arora-26927210/)
+- :mailbox:Contact me: [![Linkedin Badge](https://img.shields.io/badge/-surbhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-arora-26927210/)
+
+- Email:surbhiarora03@outlook.com
 - <div>
-  ---
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
