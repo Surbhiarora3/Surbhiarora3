@@ -5,16 +5,18 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bothell , WA.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :woman_technologist: About Me : Surbhi Arora
+Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bothell , WA.
+- :telescope: Intellectually curious Full Stack Web Developer with a Strong medical background in Physical Therapy. Enthusiastic about building a connective, impactful experience through creatively engaging user interfaces and meaningful online interactions on the web. Ability to lead and collaborate with others to achieve common goals on time. Known for finding solutions to programming challenges through complex problem-solving.
 
-- :seedling: Exploring Technical Content Writing.
-
+- :seedling: Gaming is becoming my new passion and building new apps and understanding the logic behind the games making my mind more curious to understand this new world.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-surbhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-arora-26927210/)
 - <div>
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -26,8 +28,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surbhiarora3&theme=radical)](https://git.io/streak-stats)
+
+
 <!--
 **Surbhiarora3/Surbhiarora3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
